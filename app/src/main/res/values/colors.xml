@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#033eff</color>
+    <color name="colorPrimaryDark">#033eff</color>
+    <color name="colorAccent">#0e4d30</color>
+
+
+    <color name="common_border_color">#1a7c80</color>
+    <color name="round_green">#000000</color>
+
+
+
+    // chat item
+    <color name="chat_time_color">#000000</color>
+    <color name="chat_view_separator">#2faaaaaa</color>
+
+
+    <color name="white">#ffffff</color>
+
+
+
+</resources>
